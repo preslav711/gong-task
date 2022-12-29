@@ -15,3 +15,6 @@ export function getSpine(): Spine {
 
     return spineExample;
 }
+function test() {
+
+}
